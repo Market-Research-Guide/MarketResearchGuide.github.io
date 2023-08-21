@@ -1,11 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+  plugins:
+  - jekyll-default-layout
+
+title: Market Research Guide
+description: A how-to-guide for technologies
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://MarketResearchGuide.github.io/Market-Research-Guide
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-  
-plugins:
-  - jekyll-default-layout
+  Template Repository: https://github.com/Market-Research-Guide/MarketResearchGuide
