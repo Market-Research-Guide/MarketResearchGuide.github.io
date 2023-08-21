@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Market Research Guide for Technologies
 layout: home
 ---
 
